@@ -1,0 +1,8 @@
+﻿  Tetris_2.cpp
+C:\Users\filip\source\repos\Tetris_2\Tetris_2\Tetris_2.cpp(219,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\filip\source\repos\Tetris_2\Tetris_2\Tetris_2.cpp(219,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\filip\source\repos\Tetris_2\Tetris_2\Tetris_2.cpp(227,58): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\filip\source\repos\Tetris_2\Tetris_2\Tetris_2.cpp(227,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\filip\source\repos\Tetris_2\Tetris_2\Tetris_2.cpp(237,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\filip\source\repos\Tetris_2\Tetris_2\Tetris_2.cpp(237,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Tetris_2.vcxproj -> C:\Users\filip\source\repos\Tetris_2\x64\Debug\Tetris_2.exe
